@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "Nevada（feat. Cozi Zuehlsdorff）",
+  "base_artist": "Vicetone",
+  "createdAt": "2026-03-09T13:57:31.196980Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Nevada (feat. Cozi Zuehlsdorff)",
+      "artist": "Vicetone",
+      "has_synced": true,
+      "path": "select/01_Nevada_(feat._Cozi_Zuehlsdorff)_Vicetone.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Nevada (feat. Cozi Zuehlsdorff)",
+      "artist": "Vicetone",
+      "has_synced": true,
+      "path": "select/02_Nevada_(feat._Cozi_Zuehlsdorff)_Vicetone.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Nevada (feat. Cozi Zuehlsdorff)",
+      "artist": "Vicetone, Cozi Zuehlsdorff",
+      "has_synced": true,
+      "path": "select/03_Nevada_(feat._Cozi_Zuehlsdorff)_Vicetone,_Cozi_Zuehlsdorff.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Nevada (feat. Cozi Zuehlsdorff)",
+      "artist": "Vicetone",
+      "has_synced": true,
+      "path": "select/04_Nevada_(feat._Cozi_Zuehlsdorff)_Vicetone.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Nevada (feat. Cozi Zuehlsdorff)",
+      "artist": "Vicetone",
+      "has_synced": true,
+      "path": "select/05_Nevada_(feat._Cozi_Zuehlsdorff)_Vicetone.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Nevada (feat. Cozi Zuehlsdorff)",
+      "artist": "Vicetone/Cozi Zuehlsdorff",
+      "has_synced": true,
+      "path": "select/06_Nevada_(feat._Cozi_Zuehlsdorff)_Vicetone_Cozi_Zuehlsdorff.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Nevada (feat. Cozi Zuehlsdorff)",
+      "artist": "VA",
+      "has_synced": true,
+      "path": "select/07_Nevada_(feat._Cozi_Zuehlsdorff)_VA.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Nevada (feat. Cozi Zuehlsdorff) - Extended Mix",
+      "artist": "Vicetone",
+      "has_synced": true,
+      "path": "select/08_Nevada_(feat._Cozi_Zuehlsdorff)_-_Extended_Mix_Vicetone.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Nevada (feat. Cozi Zuehlsdorff) (Extended Mix)",
+      "artist": "Vicetone",
+      "has_synced": true,
+      "path": "select/09_Nevada_(feat._Cozi_Zuehlsdorff)_(Extended_Mix)_Vicetone.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Vicetone - Nevada (feat. Cozi Zuehlsdorff) [Monstercat Official Music Video]",
+      "artist": "Monstercat",
+      "has_synced": true,
+      "path": "select/10_Vicetone_-_Nevada_(feat._Cozi_Zuehlsdorff)_[Monstercat_Official_Music_Video]_Monstercat.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Nevada (feat. Cozi Zuehlsdorff) #rm",
+      "artist": "Vicetone",
+      "has_synced": true,
+      "path": "select/11_Nevada_(feat._Cozi_Zuehlsdorff)__rm_Vicetone.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Nevada",
+      "artist": "Vicetone",
+      "has_synced": false,
+      "path": "select/pl_01_Nevada_Vicetone.txt"
+    }
+  ]
+}
